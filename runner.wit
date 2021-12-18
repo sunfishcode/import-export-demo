@@ -1,0 +1,3 @@
+use { thing } from provider
+
+doit: function(it: thing)
